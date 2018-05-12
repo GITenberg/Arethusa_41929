@@ -1,0 +1,40 @@
+_repo: Arethusa_41929
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hammond, Gertrude Demain
+    aliases:
+    - Hammond, G. M. D.
+    - Hammond, G. Demain
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '34646'
+    url: http://www.gutenberg.org/2009/agents/34646
+covers:
+- cover_type: archival
+  image_path: 41929-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_issued: '2013-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41929'
+  lccn: 07033911
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Zeno, Carlo, 1334-1418 -- Fiction'
+- !lcsh 'Byzantine Empire -- History -- John V Palaeologus, 1341-1391 -- Fiction'
+title: Arethusa
+url: http://www.gutenberg.org/ebooks/41929
